@@ -1,0 +1,11 @@
+{
+  "url": "https://www.courtlistener.com/",
+  "final_url": "https://www.courtlistener.com/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 53377,
+  "sha256": "5e823c6ff4f2de6756f9d0ac95088a1db98887458c905e3359317a1d1c5bdf2c",
+  "captured_at": "2026-11-21T22:49:02.422742Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}
